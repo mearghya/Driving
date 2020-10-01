@@ -11,5 +11,6 @@ if age>=18:
         print("You can not Drive.\n","Apply for Driving License.")
 else:
     print("You can not Drive")
+print("Thanks.\n")
 print("Is it helpful?")
 input()
