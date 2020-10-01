@@ -1,5 +1,5 @@
 # Driving
-<print("Enter your Age-")>
+print("Enter your Age-")
 age=int(input())
 # 10<age<100
 if age>=18:
